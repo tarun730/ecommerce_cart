@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom';
-import { cartstate } from '../context/productContext';
+import { cartstate } from '../context/ProductContext';
 
 const Cart = () => {
 

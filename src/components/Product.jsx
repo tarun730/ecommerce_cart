@@ -1,7 +1,7 @@
 import React from 'react'
 import ShimmerUI from './ShimmerUI'
 // import api from '../assets/API'
-import  { cartstate } from '../context/productContext'
+import  { cartstate } from '../context/ProductContext'
 const Product = () => {
 
 const {state,dispatch} = cartstate();
