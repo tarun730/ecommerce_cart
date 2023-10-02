@@ -4,9 +4,9 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Product from './components/Product'
 import Sort from './components/Sort'
-import Cart from './components/Cart'
+// import Cart from './components/Cart'
 import Navbar from './components/Navbar'
-import ProductContext from './context/productContext'
+// import ProductContext from './context/ProductContext'
 // import { filterprovider } from './context/filterContext'
 
 function App() {
